@@ -4,7 +4,6 @@ end
 
 def create_an_array
   greeting = ["Hi", "How are you", "Hello", "Nice to meet you"]
-  return greeting
 end
 
 def add_element_to_end_of_array(array, element)
